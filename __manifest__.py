@@ -24,7 +24,7 @@
         Allow your users to Merge Mutiple Invoices
         merge invoice invoices mergeing invoice mergeing merge invoices merging invoice merging invoices
     """,
-    'version': '11.1.0.0',
+    'version': '12.1.0.0',
     'category': 'Accounting',
     'author': 'Humanytek',
     'website': 'http://humanytek.com',
